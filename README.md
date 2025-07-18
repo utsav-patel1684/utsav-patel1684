@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/utsav-patel1684.png" width="150" height="150" style="border-radius: 50%;" alt="Utsav Soliya Profile Picture"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Utsav Soliya</h1>
 <h3 align="center">🚀 Full Stack Developer | Lifelong Learner | From Gujarat, India 🇮🇳</h3>
 
