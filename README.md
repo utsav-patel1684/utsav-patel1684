@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav Soliya</h1>
 <h3 align="center">A passionate Full Stake developer from Gujrat- India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav-patel1684&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-patel1684" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsav-patel1684" alt="utsav-patel1684" /></a> </p>
-
 - 🌱 I’m currently learning **React JS ,Node JS , Express JS**
 
 - 📫 How to reach me **utsavsoliya2005@gmail.com**
